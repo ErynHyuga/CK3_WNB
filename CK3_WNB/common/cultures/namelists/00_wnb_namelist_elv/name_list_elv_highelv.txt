@@ -1,0 +1,58 @@
+name_list_elv_highelv = {
+	dynasty_names = {
+		{ "dynn_Aemilianus" } { "dynn_Agrippa" } { "dynn_Antoninus" } { "dynn_Antonius" } { "dynn_Augustus" }
+		{ "dynn_Aurelius" } { "dynn_Balbinus" } { "dynn_Balbus" } { "dynn_Brutus" } { "dynn_Caligula" }
+		{ "dynn_Caracalla" } { "dynn_Cassius" } { "dynn_Commodus" } { "dynn_Constantine" } { "dynn_Crassus" }
+		{ "dynn_Decimus" } { "dynn_Diocletian" } { "dynn_Domitian" } { "dynn_Drusus" } { "dynn_Flavius" }
+		{ "dynn_Gaius" } { "dynn_Galba" } { "dynn_Galerius" } { "dynn_Gordian" } { "dynn_Gordian" }
+		{ "dynn_Gordian" } { "dynn_Gryvetheon" } { "dynn_Hadrian" } { "dynn_Honorius" } { "dynn_Honorius" }
+		{ "dynn_Hoskagys" } { "dynn_Julius" } { "dynn_Lepidus" } { "dynn_Lucius" } { "dynn_Lucullus" }
+		{ "dynn_Macrinus" } { "dynn_Marcus" } { "dynn_Marcellus" } { "dynn_Maximus" } { "dynn_Maximus" }
+		{ "dynn_Mazigonys" } { "dynn_Merntys" } { "dynn_Nero" } { "dynn_Nerva" } { "dynn_Octavian" }
+		{ "dynn_Otho" } { "dynn_Pertinax" } { "dynn_Piso" } { "dynn_Piso" } { "dynn_Piso" }
+		{ "dynn_Postumus" } { "dynn_Probus" } { "dynn_Proculus" } { "dynn_Publius" } { "dynn_Publius" }
+		{ "dynn_Puller" } { "dynn_Quintus" } { "dynn_Romulus" } { "dynn_Sergius" } { "dynn_Sergius" }
+		{ "dynn_Sergius" } { "dynn_Sulla" } { "dynn_Tacitus" } { "dynn_Tertius" } { "dynn_Theodosius" }
+		{ "dynn_Tiberius" } { "dynn_Trajan" } { "dynn_Valentinian" } { "dynn_Valerian" } { "dynn_Valerius" }
+		{ "dynn_Verus" } { "dynn_Vespasian" } { "dynn_Vitellius" } { "dynn_Vitruvius" } { "dynn_Vokylus" }
+		{ "dynn_Vokylan" } { "dynn_Vokylaeus" } { "dynn_Zaldrizyen" } { "dynn_Zaldrizyen" }
+	}
+
+	pat_grf_name_chance = 2
+	mat_grf_name_chance = 2
+	father_name_chance = 2
+	
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 10
+	mother_name_chance = 10
+	
+	dynasty_of_location_prefix = "dynnp_of"
+
+	females_names = {
+		Aelarion Aelisandre Aelyria Aelysia Aemyria Aeria Aeryn Aeryanne Albio Alcyra
+		Antonaetta Aquaelya Aurorae Auroryane Aurorys Auraelya Caecylya Castyla Claudian
+		Constantynae Craentaella Cryentaella Cryentae Crynys Cyrenaes Dommiesmommae Draecyna
+		Elaenoir Elys Elysia Gloryana Gloryanys Hyllaery Ignatya Infaeda Infaedys Infaedyi Inspreta
+		Ivaena Ivaenys Jaena Jaenaerys Jaenara Jaenys Julyaen Julyaena Lecocate Luminae Lumys 
+		Lumaena Lyraella Lyraena Maegna Magnya Maxyma Micaela Micaelena Nathaeca Nyctaela Octaevia 
+		Palatynae Palatynys Plaetys Pryd Pyrdae Pyrsta Seraena Seraenys Spaea Sylaeris Sylphyette
+		Sylvaera Sylvya Valerion Vaerina Valyaera Valycus Velarya Veronae Vokylae Vokylanty Vyctorya 
+		Vyvyann Whaeryna
+	}
+	male_names = {
+		Aelarion Aelisandre Aelyria Aelysia Aemyria Aeria Aeryn Alcyra Antonaettus Aquaelyus Aurael 
+		Auraelyan Auraelius Aurelaeon Auroraes Auroryus Auryus Bynogaegua Caecylius Calvus Carus Castylus 
+		Cassius Cato Causus Celsus Claudius Constantynus Craentaellus Crispus Cryentaellus Cryentus Crynus 
+		Cyprianus Cyrenaes Dacianus Dalmatius Decimus Domianus Dommiedadus Draecynus Elysius Elysius Eraen 
+		Fraedericus Gloraean Gloryanus Huaenclaros Hyllaerius Ignatius Infaedus Infaedys Infaedyi Ivaenus 
+		Ivaenys Jaehaerus Jaenus Jaenarus Jaenys Kaetyro Luminus Lumus Lumaenus Lyraellus Lyraeus Maegnus 
+		Magnus Maximus Micaelus Micaelys Nathaecus Octaevius Octavyus Palatynus Palatynys Plaetus Prydus 
+		Pyrdaeus Pyrstus Raeblos Salaem Saelyr Seraenus Seraenys Spaeus Sylvus Sylvyan Valerius Vaerinus 
+		Vaelor Valyaerus Valycus Velaryus Veronus Vokylaeus Vokylan Vokylus Vyctoryus Vyctor Vyvyannus 
+		Whaerynus Xandyrus Ylarius Yrae Zephyrus Zylus Zylyus
+	}
+		
+	mercenary_names = {
+	
+	}
+}
