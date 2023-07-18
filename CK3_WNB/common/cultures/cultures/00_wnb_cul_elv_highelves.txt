@@ -1,0 +1,36 @@
+northern_highelvish ={
+
+	parents = {old_highelvish}
+
+	ethos
+	heritage = 
+	language = language_lingua_imperialis_01
+}
+
+southern_highelvish = {
+
+	parents = {old_highelvish}
+	
+	ethos
+	heritage = 
+	language = language_lingua_imperialis_02
+
+}
+
+celestine_highelvish = {
+
+	parents = {old_highelvish }
+}
+
+exclaven_highelvish = {
+	
+	parents = {old_highelvish}
+
+	ethos
+	heritage = 
+	language = language_lingua_imperialis_00
+}
+
+old_highelvish = {
+
+}

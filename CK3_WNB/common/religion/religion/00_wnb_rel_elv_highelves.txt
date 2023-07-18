@@ -1,0 +1,15 @@
+albioism = {
+	family = rf_seraphine
+	graphical_faith =
+	piety_icon_group = "albioism"
+
+	doctrine_background_icon = .dds
+
+	doctrine = doctrine_spiritual_head
+	doctrine = doctrine_gender_female_dominated
+	doctrine = doctrine_pluralism_righteous
+	doctrine = doctrine_theocracy_temporal
+	doctrine = doctrine_fots_pantheon
+	doctrine = doctrine_no_syncreticism
+
+}
