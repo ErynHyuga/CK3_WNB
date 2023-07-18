@@ -3,7 +3,7 @@ northern_highelvish ={
 	parents = {old_highelvish}
 
 	ethos = ethos_bellicose
-	heritage = 
+	heritage = heritage_highelven
 	language = language_lingua_imperialis_11
 	martial_custom = martial_custom_equal
 
@@ -34,8 +34,8 @@ southern_highelvish = {
 	color = {}
 	parents = {old_highelvish}
 	
-	ethos =
-	heritage = 
+	ethos = Place_Holder_X
+	heritage = heritage_highelven
 	language = language_lingua_imperialis_12
 	martial_custom = martial_custom_equal
 
@@ -66,8 +66,8 @@ celestine_highelvish = {
 	color = {}
 	parents = {old_highelvish angelics}
 
-	ethos =
-	heritage = 
+	ethos = Place_Holder_X
+	heritage = heritage_highelven
 	language = language_lingua_imperialis_01
 	martial_custom = martial_custom_equal
 
@@ -98,8 +98,8 @@ exclaven_highelvish = {
 	color = {}
 	parents = {old_highelvish}
 
-	ethos =
-	heritage = 
+	ethos = Place_Holder_X
+	heritage = heritage_highelven
 	language = language_lingua_imperialis_02
 	martial_custom = martial_custom_equal
 
@@ -128,8 +128,9 @@ exclaven_highelvish = {
 
 old_highelvish = {
 	color = {}
-	ethos
-	heritage = 
+	
+	ethos = Place_Holder_X
+	heritage = heritage_highelven
 	language = language_lingua_imperialis_00
 	martial_custom = martial_custom_equal
 
