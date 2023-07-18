@@ -1,0 +1,7 @@
+version="1"
+tags={
+    "Total Conversion"s
+}
+name="WNB"
+supported_version="1.9.2.1"
+path="C:\Users\mampf\Documents\Paradox Interactive\Crusader Kings III\mod\CK3_WNB"
