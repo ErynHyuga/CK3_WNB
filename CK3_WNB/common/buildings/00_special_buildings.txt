@@ -1,7 +1,0 @@
-#########
-# The Monastary of the Nut
-#########
-
-the_nut_temple_01 = {
-    
-}

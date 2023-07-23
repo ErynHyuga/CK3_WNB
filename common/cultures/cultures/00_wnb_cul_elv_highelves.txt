@@ -1,0 +1,168 @@
+northern_highelvish ={
+	color = {}
+	parents = {old_highelvish}
+
+	ethos = ethos_bellicose
+	heritage = heritage_highelven
+	language = language_lingua_imperialis_11
+	martial_custom = martial_custom_equal
+
+	traditions = {
+
+	}
+	name_list = name_list_elv_highelv
+	
+
+	coa_gfx = {
+
+	}
+	build_gfx = {
+
+	}
+	clothing_gfx = {
+	
+	}
+	unit_gfx = {
+	
+	}
+	ethnicities = {
+
+	}
+}
+
+southern_highelvish = {
+	color = {}
+	parents = {old_highelvish}
+	
+	ethos = ethos_PLACEHOLDER_X
+	heritage = heritage_highelven
+	language = language_lingua_imperialis_12
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_expert_artisan
+		tradition_matriarchal
+		tradition_polygamous
+	}
+	name_list = name_list_elv_highelv
+	
+	
+	coa_gfx = {
+
+	}
+	build_gfx = {
+
+	}
+	clothing_gfx = {
+	
+	}
+	unit_gfx = {
+	
+	}
+	ethnicities = {
+
+	}
+}
+
+celestine_highelvish = {
+	color = {}
+	parents = {old_highelvish angelics}
+
+	ethos = ethos_PLACEHOLDER_X
+	heritage = heritage_highelven
+	language = language_lingua_imperialis_01
+	martial_custom = martial_custom_equal
+
+	traditions = {
+
+	}
+	name_list = name_list_elv_highelv
+	
+	
+	coa_gfx = {
+
+	}
+	build_gfx = {
+
+	}
+	clothing_gfx = {
+	
+	}
+	unit_gfx = {
+	
+	}
+	ethnicities = {
+
+	}
+}
+
+exclaven_highelvish = {
+	color = {}
+	parents = {old_highelvish}
+
+	ethos = ethos_PLACEHOLDER_X
+	heritage = heritage_highelven
+	language = language_lingua_imperialis_02
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_industrious
+		tradition_expert_artisan
+		tradition_martial_admiration
+		tradition_hidden_
+	}
+	name_list = name_list_elv_highelv
+	
+	
+	coa_gfx = {
+
+	}
+	build_gfx = {
+
+	}
+	clothing_gfx = {
+	
+	}
+	unit_gfx = {
+	
+	}
+	ethnicities = {
+
+	}
+}
+
+old_highelvish = {
+	color = {}
+	
+	ethos = ethos_artistry
+	heritage = heritage_highelven
+	language = language_lingua_imperialis_00
+	martial_custom = martial_custom_equal
+
+	traditions = {
+		tradition_expert_artisan
+		tradition_matriarchal
+		tradition_industrious
+		tradition_polygamous
+	}
+	name_list = name_list_elv_highelv
+	
+	
+	coa_gfx = {
+
+	}
+	build_gfx = {
+
+	}
+	clothing_gfx = {
+	
+	}
+	unit_gfx = {
+	
+	}
+	ethnicities = {
+
+	}
+}
+
+

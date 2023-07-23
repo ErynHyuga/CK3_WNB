@@ -138,12 +138,14 @@ ethos_communal = {
 	}
 }
 
-ethos_artisan_culture = {
+ethos_artistry = {
 	type = ethos
 	parameters = {
 		improved_artisan_inspiration = yes
 		improved_weaver_inspiration = yes
 		improved_metalwork_inpiration = yes
+		more_expensive_weapon_inspiration = yes
+		improved_weapon_inspiration = yes
 	}
 	character_modifier = {
 
@@ -151,7 +153,6 @@ ethos_artisan_culture = {
 	province_modifier = {
 		build_speed = -0.2
 		build_gold_cost = 0.05
-		more_expensive_weapon_inspiration = yes
-		improved_weapon_inspiration = yes
+		
 	}
 }

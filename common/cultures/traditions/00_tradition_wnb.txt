@@ -1,0 +1,37 @@
+traditon_wisdom_and_longevity = {
+	county_modifier = {
+
+	}
+}
+
+tradition_refinement_and_artistry = {
+	province_modifier = {
+		levy_size = -0.25
+	}
+}
+
+tradition_society_and_nobility = {
+	parameters = {
+		can_raid = no
+
+	}
+	character_modifier = {
+		popular_opinion = -0.1
+		monthly_prestige_gain_mult = 0.01
+	}
+	province_modifier = {
+		monthly_income = 0.05
+	}
+}
+tradition_hidden_strongholds = {
+	
+	category = social
+
+	parameters = {
+		castle_holding_fort_level_bonus = yes
+		city_holding_fort_level_bonus = yes
+		temple_holding_fort_level_bonus = yes
+		
+		
+	}
+}
