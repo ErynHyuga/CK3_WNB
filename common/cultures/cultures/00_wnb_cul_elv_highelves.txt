@@ -74,7 +74,8 @@ celestine_highelvish = {
 	martial_custom = martial_custom_equal
 
 	traditions = {
-
+		tradition_artefacts_and_big_stick_policy
+		tradition_expert_artisan
 	}
 	name_list = name_list_elv_highelv
 	

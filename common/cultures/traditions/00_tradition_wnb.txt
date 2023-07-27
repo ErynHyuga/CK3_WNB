@@ -1,37 +1,93 @@
 traditon_wisdom_and_longevity = {
+	category = elven_shit
+
+	parameters= {
+		more_expensive_weapon_inspiration = yes
+		improved_weapon_inspiration = yes
+		building_barracks_piety_bonuses = yes
+	}
 	county_modifier = {
 
 	}
 }
 
 tradition_refinement_and_artistry = {
+	category = elven_shit
+
+	is_shown = {
+		NOR = {
+			has_cultural_pillar = heritage_highelven
+		}
+	}
+	parameters = {
+		more_expensive_feasts = yes
+		refined_feasts = yes
+		renown_from_feasts = yes
+		characters_are_better_food_tasters = yes
+		
+	}
 	province_modifier = {
 		levy_size = -0.25
+		monthly_income = 0.05
+	}
+
+}
+
+tradition_in_the_of_god = {
+	category = elven_shit
+
+	parameters = {
+		same_faith_inheritance_only = yes
+
+
+	}
+	character_modifier ={
+		opinion_of_different_faith = -50
+		holy_warrior_trait_more_valued = yes
+		holy_warrior_trait_more_commen = yes
+			
 	}
 }
 
 tradition_society_and_nobility = {
+	category = elven_shit
+	
 	parameters = {
-		can_raid = no
-
+		number_of_spouses = 3
+		number_of_consorts = 9
+		piety_penalty_for_revoking_titles_from_house_members = yes
+		landing_house_members_gives_renown = yes
 	}
 	character_modifier = {
-		popular_opinion = -0.1
+		
 		monthly_prestige_gain_mult = 0.01
+		monthly_renown_gain_mult = 0.011
 	}
 	province_modifier = {
-		monthly_income = 0.05
+		popular_opinion = -0.1
 	}
 }
+
+tradition_artefacts_and_big_stick_policy = {
+	category = elven_shit
+
+	parameters = {
+		can_raid = yes
+	}
+	county_modifier = {
+		monthly_county_control_change_factor = 0.333333
+	}
+}
+
 tradition_hidden_strongholds = {
 	
-	category = social
-
+	category = elven_shit
+	
 	parameters = {
 		castle_holding_fort_level_bonus = yes
 		city_holding_fort_level_bonus = yes
 		temple_holding_fort_level_bonus = yes
-		
-		
+		can_raid = no
+		more_easily_converted = no
 	}
 }
